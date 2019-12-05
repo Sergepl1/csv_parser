@@ -1,0 +1,13 @@
+{
+  "name": "csv_parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Serhii Plahuta",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^2.3.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
